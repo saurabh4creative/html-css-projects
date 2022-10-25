@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'KG Inimitable Original';
+    src: url('KGInimitableOriginal.eot');
+    src: url('KGInimitableOriginal.eot?#iefix') format('embedded-opentype'),
+        url('KGInimitableOriginal.woff2') format('woff2'),
+        url('KGInimitableOriginal.woff') format('woff'),
+        url('KGInimitableOriginal.ttf') format('truetype'),
+        url('KGInimitableOriginal.svg#KGInimitableOriginal') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
